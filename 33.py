@@ -1,0 +1,6 @@
+a = float(input("a="))
+b = float(input("b="))
+max = max(a,b)
+min = min(a,b)
+print("min" , (min))
+print("max ", (max))
